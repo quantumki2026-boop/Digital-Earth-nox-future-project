@@ -1,2 +1,2 @@
-# Digital-Earth-nox-future-project
+# Digital-Earth-now-future-project
 Digital Earth
